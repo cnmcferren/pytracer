@@ -127,3 +127,9 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+
+# Apple 
+.DS_Store
+
+# Test output
+*.ppm
